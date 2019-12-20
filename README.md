@@ -2,7 +2,7 @@
 
 ![allReady project banner](./docs/media/all-ready-project-banner.jpg)
 
-# Welcome to allReady  hi prem pratpa
+# Welcome to allReady  hi prem pratpa singh
 
 This repo contains the code for **allReady**, an open-source solution focused on increasing awareness, efficiency and impact of preparedness campaigns as they are delivered by humanitarian and disaster response organizations in local communities.
 
